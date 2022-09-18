@@ -1,0 +1,22 @@
+* {
+    font-family: Roboto;
+}
+body {
+    background-color: blue;
+    height: 80px;
+    padding-top: 15px;
+    background-image: url(https://cdn2.webmanagercenter.com/wmc/wp-content/uploads/2021/06/agence-biat-lac-turkana-pilote.jpg);
+    background-size: 100%;
+}
+li {
+    list-style: none;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
